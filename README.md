@@ -1,7 +1,18 @@
 # Jade.CodingTools
-一个 Visual Studio 2015 插件，辅助项目开发，代码自动构建，修正等。
+一个C#项目开发的生产工具。
 
 ## Features
+
+- Character replacement
+- Custom document comments
+- Code generation
+- Change background
+- ...
+
+### Download
+
+### Version History
+
 > Tips: 快捷功能 启动快捷键 `Atr + Q`。
 
 ## 如何贡献
