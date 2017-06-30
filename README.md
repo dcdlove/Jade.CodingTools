@@ -1,33 +1,10 @@
 # Jade.CodingTools
----
-- Jade.Domain 
-  - [x]  Dto
-  - [x] Input
-- Jade.Repository
-  - [x] Repository
-  - [x] Uow
-- Jade.Service
-   - [x] Service
-   - [x] IService
-- Jade.Manage
-   - [x] View
-     -  [x] List
-     -  [x] Edit
-   - [x] Controller
-   
-- Jade.Web
-  - [x] Controller
+一个 Visual Studio 2015 插件，辅助项目开发，代码自动构建，修正等。
 
----
-# Form Control Gen
-- grid layout
-- control htl code generate
+## Features
+> Tips: 快捷功能 启动快捷键 `Atr + Q`。
 
-# Online Template Service
-- local template
-- Internal
-- 
- # 如何贡献
+## 如何贡献
 CodingTools 项目非常欢迎贡献者。 最简单的贡献方式，就是参与讨论，并向我们提出产品的改进意见。此外，我们也非常欢迎测试和提交BUG。
 
 如果你希望提交代码，请通过 Pull Request 的方式提交，并确保你的代码符合以下要求：
