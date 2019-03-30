@@ -1,3 +1,4 @@
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg"></a>
 # Jade.CodingTools
 一个C#项目开发的生产工具。
 
